@@ -5,7 +5,7 @@
 ---
 
 ### 💻 Stacks
-[![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff)](#)
+[![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff&style=for-the-badge)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff)](#)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)](#)
 
@@ -57,3 +57,6 @@
 ---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d3557&height=120&section=footer"/>
+
+
+
