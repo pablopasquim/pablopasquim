@@ -1,48 +1,59 @@
-<!-- Animação com readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/pablopasquim">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Pablo+Pasquim;Systems+Analysis+%26+Development+Student;Passionate+about+Tech+%26+Games;Always+Learning+🌱" alt="Typing SVG" />
-  </a>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d3557&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a8dadc&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Pablo+Pasquim;I'm+21+years+old;Systems+Analysis+%26+Development+Student;C#+,+Kotlin+%26+Go+Developer;Always+Learning+New+Tech;Welcome!+:%29)](https://git.io/typing-svg)
 
 ---
 
-## 🤓 About Me
-- 👨‍💻 Systems Analysis and Development student  
-- ❤️ Passionate about technology and games  
-- 🌱 Always looking to learn more  
-- 😊 Friendly with everyone  
-- 📱 Currently focusing on **Mobile Kotlin development**  
+### 💻 Stacks
+[![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff)](#)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)](#)
 
 ---
 
-## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/fazzer#8273)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pablo_pasquim7) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-pasquim-b9a298269/)
+### ⚙️ Frameworks & Tools
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](#)
+[![Gin](https://img.shields.io/badge/Gin-00ADD8?logo=go&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff)](#)
 
 ---
 
-## 💻 Tech Stack
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### ☁️ Cloud Systems
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff)](#)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff)](#)
 
 ---
 
-## 📊 GitHub Stats
+### 🗄️ Databases
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=fff)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=fff)](#)
+
+---
+
+### 🛠️ Development Tools
+[![GoLand](https://img.shields.io/badge/GoLand-000?logo=goland&logoColor=fff)](#)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visualstudiocode&logoColor=fff)](#)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=fff)](#)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)](#)
+
+---
+
+### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=pablopasquim&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pablopasquim&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pablopasquim&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=pablopasquim&icon=6&color=1" alt="Visit Counter" />
-</p>
+### 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=fff)](https://discordapp.com/users/fazzer#8273)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff)](https://instagram.com/pablo_pasquim7) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/pablo-pasquim-b9a298269/)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d3557&height=120&section=footer"/>
